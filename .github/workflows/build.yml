@@ -9,7 +9,7 @@ on:
 
 env:
   PROJECT_NAME: TemplateMod
-  
+
   MOD_HELPER_NAME: Btd6ModHelper
   BLOONSTD6: ./BloonsTD6
 
