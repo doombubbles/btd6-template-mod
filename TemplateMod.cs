@@ -1,4 +1,4 @@
-﻿global using BTD_Mod_Helper.Extensions;
+global using BTD_Mod_Helper.Extensions;
 using MelonLoader;
 using BTD_Mod_Helper;
 using TemplateMod;
